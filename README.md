@@ -1,2 +1,2 @@
-# squareo
-worst x86 project you'll ever lay your eyes on
+# Dependencies:
+-  sudo apt install gcc-multilib libc6-dev-i386 libx11-dev:i386 libx11-6:i386
